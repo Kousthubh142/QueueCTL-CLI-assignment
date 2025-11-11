@@ -269,7 +269,7 @@ python -m queuectl.cli --help
 
 ## 🎥 Demo Video
 
-**[📹 Watch QueueCTL Demo Video](https://drive.google.com/your-video-link-here)**
+**[📹 Watch QueueCTL Demo Video](https://drive.google.com/file/d/1iWr_r0f-o7GBUtgb2wrHD3p7S3d3G_2h/view?usp=drive_link)**
 
 The demo showcases:
 - ✅ Complete CLI functionality (enqueue, worker, status, list, dlq, config)
